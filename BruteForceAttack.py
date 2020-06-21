@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Import the itertools.product which is similae to a for-loop in a generation of expression
+# Import the itertools.product which is similar to a for-loop in the generation of expression
 from itertools import product
 
 # Import the characters to be serched for
